@@ -1,5 +1,5 @@
-CC = gcc
-CFLAGS = -Wall -Wextra -std=c11 -g
+CC = g++
+CFLAGS = -Wall -Wextra -g
 TARGET = myfind
 
 all: $(TARGET)
